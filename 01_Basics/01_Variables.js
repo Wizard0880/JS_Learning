@@ -4,7 +4,7 @@ var accountType = 'Savings';
 let accountState; // will print Undefined
 
 //accountID = 987654321; // Error: Uncaught TypeError: Assignment to constant variable.
-balance = 2000;
+balance = "2000";
 accountType = 'Current';
 
 console.log(accountID, balance, accountType); // 123456789 2000 Current
